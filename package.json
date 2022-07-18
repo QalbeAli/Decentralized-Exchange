@@ -2,7 +2,7 @@
   "name": "@uniswap/widgets",
   "version": "1.0.7",
   "description": "Uniswap Interface",
-  "homepage": ".",
+  "homepage": "https://github.com/QalbeAli/Decentralized-Exchange",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "contracts:compile:abi": "typechain --target ethers-v5 --out-dir src/abis/types \"./src/abis/**/*.json\"",
@@ -152,6 +152,7 @@
     "ethers": "^5.1.4",
     "firebase": "^9.1.3",
     "fortmatic": "^2.4.0",
+    "gh-pages": "^4.0.0",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
     "immer": "^9.0.6",
